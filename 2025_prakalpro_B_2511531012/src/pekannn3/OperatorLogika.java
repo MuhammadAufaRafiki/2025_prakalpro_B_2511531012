@@ -1,4 +1,4 @@
-package pekan3;
+package pekannn3;
 
 import java.util.Scanner;
 
@@ -25,6 +25,7 @@ public class OperatorLogika {
 		System.out.println("Negasi");
 		c= !A1;
 		System.out.println("bukan true = " + c);
+
 	}
 
 }
